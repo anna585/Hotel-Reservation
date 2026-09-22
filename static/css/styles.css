@@ -338,4 +338,6 @@ button:hover {
     align-items: flex-start;
     align-content: flex-end;
     justify-content: center;
+.selected-room{
+    background-color: #cfcbca !important;
 }
